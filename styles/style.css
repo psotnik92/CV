@@ -83,12 +83,12 @@ a:hover {
 }
 img {
   display: block;
-  border-radius: 20px;
+  /* border-radius: 256px; */
   max-width: 80%;
   height: auto;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 40px;
+  margin-top: 70px;
   -webkit-user-select: none;
   -moz-user-select: none;
   -ms-user-select: none;
@@ -194,7 +194,7 @@ section.w-margin {
   margin-left: 40px;
 }
 .right-top {
-  margin-top: 40px;
+  margin-top: 70px;
 }
 .right-bottom {
   padding-bottom: 50px;

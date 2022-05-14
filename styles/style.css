@@ -83,7 +83,9 @@ a:hover {
 }
 img {
   display: block;
-  /* border-radius: 256px; */
+  border-radius: 15px;
+  border: 2px solid white;
+  transform: scale(-1, 1);
   max-width: 80%;
   height: auto;
   margin-left: auto;
@@ -192,6 +194,7 @@ section.w-margin {
 }
 .content {
   margin-left: 40px;
+  padding-right: 5%;
 }
 .right-top {
   margin-top: 70px;

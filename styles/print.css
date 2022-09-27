@@ -13,3 +13,9 @@ body {
 .right-bottom {
   padding-top: 80px;
 }
+.list {
+  padding-inline-start: 0;
+}
+.list li {
+  line-height: 140%;
+}

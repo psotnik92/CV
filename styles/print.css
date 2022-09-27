@@ -1,0 +1,15 @@
+body {
+  background: white;
+}
+.container {
+  width: 100%;
+}
+.container-left {
+  flex: 40;
+}
+.container-right {
+  flex: 60;
+}
+.right-bottom {
+  padding-top: 80px;
+}
